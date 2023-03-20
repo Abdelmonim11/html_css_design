@@ -957,6 +957,9 @@ header span i {
         text-align: center;
         padding: 0 15px 0 15px;
     }
+    .subscribe-box button a {
+        padding: 15px 5px;
+    }
 }
 /* "contact us" section  */
 .section-seven {
